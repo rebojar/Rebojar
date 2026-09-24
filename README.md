@@ -4,7 +4,7 @@ O Rebojar funciona como ponto de encontro entre trabalhos que podem nascer separ
 Atualmente:
 
 - 🔬 [LabVisual](https://github.com/rebojar/LabVisual) — laboratório local para inspeção e experimentação com representações visuais de modelos multimodais.
-- 🎨 [Garatujas↗](https://garatujas.tumblr.com/) — desenhos e experiências visuais.
+- 🎨 <a href="https://garatujas.tumblr.com/" target="_blank" rel="noopener noreferrer">Garatujas↗</a> — desenhos e experiências visuais.
 
 <pre>
 <!--🔹INICIO LINHA 1🔹-->                      ╱╱<a href="https://github.com/rebojar/LabVisual"><!--🔸INICIO DA 🫟COR LINHA 1A🔸-->░░░░░░░░░<!--🔸FIM DA 🫟COR LINHA 1A🔸--></a>╱╱<a href="https://github.com/rebojar/LabVisual"><!--🔸INICIO DA 🫟COR LINHA 1B🔸-->░░░░░░░░░░<!--🔸FIM DA 🫟COR LINHA 1B🔸--></a>╱─                                 ─────────────────<!--🔻FIM LINHA 1🔻-->
@@ -45,7 +45,7 @@ Atualmente:
 _______________________________
 <!--🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺-->
 
-🔬 <a href="https://github.com/rebojar/LabVisual">LabVisual</a> · 🎨 <a href="https://garatujas.tumblr.com/">Garatujas↗</a> · ⛩️  <a href="https://rebojar.github.io/">Portal Rebojar</a>
+🔬 <a href="https://github.com/rebojar/LabVisual">LabVisual</a> · 🎨 <a href="https://garatujas.tumblr.com/" target="_blank" rel="noopener noreferrer">Garatujas↗</a> · ⛩️  <a href="https://rebojar.github.io/">Portal Rebojar</a>
 
 <!--🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺-->
 _______________________________
