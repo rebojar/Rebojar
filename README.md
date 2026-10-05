@@ -5,7 +5,7 @@ Atualmente:
 
 - 🔬 [LabVisual](https://github.com/rebojar/LabVisual) — laboratório local para inspeção e experimentação com representações visuais de modelos multimodais.
 - 🎨 <a href="https://garatujas.tumblr.com/" target="_blank" rel="noopener noreferrer">Garatujas↗</a> — desenhos e experiências visuais.
-
+- 📘 [Caderno de Bordo](https://github.com/rebojar/caderno-de-bordo/) — caderno de registros
 <pre>
 <!--🔹INICIO LINHA 1🔹-->                      ╱╱<a href="https://github.com/rebojar/LabVisual"><!--🔸INICIO DA 🫟COR LINHA 1A🔸-->░░░░░░░░░<!--🔸FIM DA 🫟COR LINHA 1A🔸--></a>╱╱<a href="https://github.com/rebojar/LabVisual"><!--🔸INICIO DA 🫟COR LINHA 1B🔸-->░░░░░░░░░░<!--🔸FIM DA 🫟COR LINHA 1B🔸--></a>╱─                                 ─────────────────<!--🔻FIM LINHA 1🔻-->
 <!--🔹INICIO LINHA 2🔹-->                     ╱<a href="https://github.com/rebojar/LabVisual"><!--🔸INICIO DA 🫟COR LINHA 2A🔸-->░░░░░░░░░<!--🔸FIM DA 🫟COR LINHA 2A🔸--></a>╱╱<a href="https://github.com/rebojar/LabVisual"><!--🔸INICIO DA 🫟COR LINHA 2B🔸-->░░░░░░░░░░<!--🔸FIM DA 🫟COR LINHA 2B🔸--></a>╱╱                          ─────<a href="https://garatujas.tumblr.com/"><!--🔸INICIO DA 🫟COR LINHA 2C🔸-->▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒<!--🔸FIM DA 🫟COR LINHA 2C🔸--></a><!--🔻FIM LINHA 2🔻-->
@@ -45,7 +45,7 @@ Atualmente:
 _______________________________
 <!--🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺-->
 
-🔬 <a href="https://github.com/rebojar/LabVisual">LabVisual</a> · 🎨 <a href="https://garatujas.tumblr.com/" target="_blank" rel="noopener noreferrer">Garatujas↗</a> · ⛩️  <a href="https://rebojar.github.io/">Portal Rebojar</a>
+🔬 <a href="https://github.com/rebojar/LabVisual">LabVisual</a> · 🎨 <a href="https://garatujas.tumblr.com/" target="_blank" rel="noopener noreferrer">Garatujas↗</a> · ⛩️  <a href="https://rebojar.github.io/">Portal Rebojar</a> · 📘 <a href="https://github.com/rebojar/caderno-de-bordo">Caderno de Bordo</a>
 
 <!--🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺-->
 _______________________________
