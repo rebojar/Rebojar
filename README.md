@@ -45,7 +45,7 @@ Atualmente:
 _______________________________
 <!--🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺-->
 
-🔬 <a href="https://github.com/rebojar/LabVisual">LabVisual</a> · 🎨 <a href="https://garatujas.tumblr.com/" target="_blank" rel="noopener noreferrer">Garatujas↗</a> · ⛩️  <a href="https://rebojar.github.io/">Portal Rebojar</a> · 📘 <a href="https://github.com/rebojar/caderno-de-bordo">Caderno de Bordo</a>
+🔬 <a href="https://github.com/rebojar/LabVisual">LabVisual</a> · 🎨 <a href="https://garatujas.tumblr.com/" target="_blank" rel="noopener noreferrer">Garatujas↗</a> · ⛩️  <a href="https://rebojar.github.io/">Portal Rebojar</a> · 📘 <a href="[https://github.com/rebojar/caderno-de-bordo](https://rebojar.github.io/caderno-de-bordo/)">Caderno de Bordo</a>
 
 <!--🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺-->
 _______________________________
