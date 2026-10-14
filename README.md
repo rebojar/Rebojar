@@ -1,11 +1,32 @@
-[🌀 Portal 🌀 Rebojar 🌀](https://rebojar.github.io/) — portal público que reúne as portas de entrada dos projetos independentes em arte, pesquisa e ferramentas abertas.
-O Rebojar funciona como ponto de encontro entre trabalhos que podem nascer separados, mudar de forma e ganhar vida própria.
+[🌀 Portal 🌀 Rebojar 🌀](https://rebojar.github.io/) — um espaço autoral para projetos independentes em arte, pesquisa e ferramentas abertas.
 
-Atualmente:
+O Rebojar funciona como ponto de encontro entre trabalhos que podem nascer separados, mudar de forma e ganhar vida própria. Por aqui convivem desenhos, fotografias, experimentos e pequenos objetos digitais.
 
-- 🔬 [LabVisual](https://github.com/rebojar/LabVisual) — laboratório local para inspeção e experimentação com representações visuais de modelos multimodais.
-- 🎨 <a href="https://garatujas.tumblr.com/" target="_blank" rel="noopener noreferrer">Garatujas↗</a> — desenhos e experiências visuais.
-- 📘 [Caderno de Bordo](https://github.com/rebojar/caderno-de-bordo/) — caderno de registros
+### Para explorar
+
+- 🔬 [LabVisual](https://github.com/rebojar/LabVisual) — bancada local para investigar representações visuais do Qwen3.5-9B, com os pesos congelados. A [demonstração pública](https://rebojar.github.io/demonstracao-labvisual/) apresenta resultados sintéticos pré-calculados, sem executar o modelo no navegador.
+- 🎨 [Garatujas](https://garatujas.tumblr.com/) — desenhos e experiências visuais.
+- 📘 [Caderno de Bordo](https://rebojar.netlify.app/) — diário visual de textos e fotografias. A demonstração permite compor temporariamente no navegador; as alterações desaparecem ao recarregar. 
+- 🎧 [AudiCanvas](https://rebojar.github.io/audicanvas/) — demonstração experimental de caminhada e composição de caminho, corpo e ambiente.
+- 📷 [Galeria](https://rebojar.github.io/galeria/) — imagens de autoria do Rebojar reunidas em um índice visual.
+
+### Objetos para habitar o navegador
+
+A [Estante](https://rebojar.github.io/widget-estante/) reúne o Caderno, o Estojo de ferramentas e o Baú de Memórias. Também permite acrescentar um widget pelo endereço.
+
+- 📚 [Estante](https://rebojar.github.io/widget-estante/) — ponto de encontro desses objetos digitais.
+- 📓 [Caderno na estante](https://rebojar.github.io/widget-caderno/) — caderno com conteúdo guardado no navegador.
+- ✏️ [Estojo](https://rebojar.github.io/widget-estojo/) — ferramentas acessíveis ao abrir o zíper.
+- 🧰 [Baú de Memórias](https://rebojar.github.io/widget-bau/) — fotografias, textos e pequenos fragmentos guardados localmente no navegador.
+
+O armazenamento local depende do navegador e do dispositivo utilizados. A demonstração temporária do Caderno de Bordo e o caderno da Estante têm comportamentos diferentes.
+
+### Código e continuidade
+
+O [LabVisual](https://github.com/rebojar/LabVisual) reúne a bancada instalável e sua documentação. O repositório [rebojar.github.io](https://github.com/rebojar/rebojar.github.io) reúne o portal e os arquivos das experiências públicas. Cada projeto tem seu próprio estado de desenvolvimento e suas condições de uso.
+
+Para apoiar o tempo, as ferramentas e os serviços dedicados aos projetos: [GitHub Sponsors](https://github.com/sponsors/rebojar), [Ko-fi](https://ko-fi.com/rebojar) ou [Apoia.se](https://apoia.se/rebojar).
+
 <pre>
 <!--🔹INICIO LINHA 1🔹-->                      ╱╱<a href="https://github.com/rebojar/LabVisual"><!--🔸INICIO DA 🫟COR LINHA 1A🔸-->░░░░░░░░░<!--🔸FIM DA 🫟COR LINHA 1A🔸--></a>╱╱<a href="https://github.com/rebojar/LabVisual"><!--🔸INICIO DA 🫟COR LINHA 1B🔸-->░░░░░░░░░░<!--🔸FIM DA 🫟COR LINHA 1B🔸--></a>╱─                                 ─────────────────<!--🔻FIM LINHA 1🔻-->
 <!--🔹INICIO LINHA 2🔹-->                     ╱<a href="https://github.com/rebojar/LabVisual"><!--🔸INICIO DA 🫟COR LINHA 2A🔸-->░░░░░░░░░<!--🔸FIM DA 🫟COR LINHA 2A🔸--></a>╱╱<a href="https://github.com/rebojar/LabVisual"><!--🔸INICIO DA 🫟COR LINHA 2B🔸-->░░░░░░░░░░<!--🔸FIM DA 🫟COR LINHA 2B🔸--></a>╱╱                          ─────<a href="https://garatujas.tumblr.com/"><!--🔸INICIO DA 🫟COR LINHA 2C🔸-->▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒<!--🔸FIM DA 🫟COR LINHA 2C🔸--></a><!--🔻FIM LINHA 2🔻-->
@@ -42,10 +63,5 @@ Atualmente:
 <!--🔹INICIO LINHA 33🔹-->│<a href="https://github.com/rebojar/LabVisual"><!--🔸INICIO DA 🫟COR LINHA 33A🔸-->░░░░░░<!--🔸FIM DA 🫟COR LINHA 33A🔸--></a>│<a href="https://github.com/rebojar/LabVisual"><!--🔸INICIO DA 🫟COR LINHA 33B🔸-->░░░░░░░<!--🔸FIM DA 🫟COR LINHA 33B🔸--></a>│            │<a href="https://garatujas.tumblr.com/"><!--🔸INICIO DA 🫟COR LINHA 33C🔸-->▒▒▒▒▒▒▒▒▒▒▒▒▒<!--🔸FIM DA 🫟COR LINHA 33C🔸--></a>│    │    ││     │<a href="https://rebojar.github.io/"><!--🔸INICIO DA 🫟COR LINHA 33D🔸-->▓▓▓▓▓▓▓▓▓<!--🔸FIM DA 🫟COR LINHA 33D🔸--></a>│               <a href="https://github.com/rebojar/rebojar.github.io"><!--🔸INICIO DA 🫟COR LINHA 33E🔸-->╰────╯<!--🔸FIM DA 🫟COR LINHA 33E🔸--></a><!--🔻FIM LINHA 33🔻-->
 <!--🔹INICIO LINHA 34🔹-->│<a href="https://github.com/rebojar/LabVisual"><!--🔸INICIO DA 🫟COR LINHA 34A🔸-->░░░░░░<!--🔸FIM DA 🫟COR LINHA 34A🔸--></a>│<a href="https://github.com/rebojar/LabVisual"><!--🔸INICIO DA 🫟COR LINHA 34B🔸-->░░░░░░░<!--🔸FIM DA 🫟COR LINHA 34B🔸--></a>│            ││<a href="https://garatujas.tumblr.com/"><!--🔸INICIO DA 🫟COR LINHA 34C🔸-->▒▒▒▒▒▒▒▒▒▒▒▒<!--🔸FIM DA 🫟COR LINHA 34C🔸--></a>│    │     │     │<a href="https://rebojar.github.io/"><!--🔸INICIO DA 🫟COR LINHA 34D🔸-->▓▓▓▓▓▓▓▓▓<!--🔸FIM DA 🫟COR LINHA 34D🔸--></a>│<!--🔻FIM LINHA 34🔻-->
 </pre>
-_______________________________
-<!--🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺-->
 
-🔬 <a href="https://github.com/rebojar/LabVisual">LabVisual</a> · 🎨 <a href="https://garatujas.tumblr.com/" target="_blank" rel="noopener noreferrer">Garatujas↗</a> · ⛩️  <a href="https://rebojar.github.io/">Portal Rebojar</a> · 📘 <a href="[https://github.com/rebojar/caderno-de-bordo](https://rebojar.github.io/caderno-de-bordo/)">Caderno de Bordo</a>
-
-<!--🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺-->
-_______________________________
+[🌀 Portal](https://rebojar.github.io/) · [🔬 LabVisual](https://github.com/rebojar/LabVisual) · [🎨 Garatujas](https://garatujas.tumblr.com/) · [📘 Caderno de Bordo](https://rebojar.netlify.app/) · [📚 Estante](https://rebojar.github.io/widget-estante/)
